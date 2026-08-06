@@ -1,0 +1,23 @@
+# ==============================
+# NIFTY AI BOT PRO - CONFIG
+# ==============================
+
+ACCESS_TOKEN = "PASTE_YOUR_UPSTOX_ACCESS_TOKEN_HERE"
+
+EXCHANGE = "NSE_INDEX"
+SYMBOL = "Nifty 50"
+TIMEFRAME = "1minute"
+
+EMA_FAST = 9
+EMA_SLOW = 21
+EMA_TREND = 50
+
+RSI_PERIOD = 14
+
+MACD_FAST = 12
+MACD_SLOW = 26
+MACD_SIGNAL = 9
+
+ATR_PERIOD = 14
+
+RISK_REWARD = 2
